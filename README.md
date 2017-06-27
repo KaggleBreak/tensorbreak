@@ -11,7 +11,7 @@
 ## Part1 커리큘럼
 |요일   |주제   |발표자   |발표자료   |   |
 |---|---|---|---|---|
-|2017.07.27(수)|(Tutorial, RStudio) MNIST For ML Beginners |이상열|[발표자료](https://github.com/KaggleBreak/tensorbreak/blob/master/part1/Rstudio_Tensorflow/mnist_beginners/tutorial_rstudio_mnist_20170627.html)
+|2017.07.27(수)|(Tutorial, RStudio) MNIST For ML Beginners |이상열|[발표자료](https://htmlpreview.github.io/?https://github.com/KaggleBreak/tensorbreak/blob/master/part1/Rstudio_Tensorflow/mnist_beginners/tutorial_rstudio_mnist_20170627.html)
 ||(Hands-on, Python) 9. Up and running with TensorFlow |이상열 |[발표자료](k/tensorbreak/blob/master/part1/hands_on_ml/chapter9/Up_and_running_with_TensorFlow_Python.ipynb)
 
 
