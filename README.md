@@ -5,7 +5,7 @@
 * https://www.facebook.com/groups/kagglebreak/
 * 장소 : 토즈 강남점 
 * 격주 화요일 
-* 캐글뽀개기 스터디는 KossLab(공개SW 개발자센터)과 R-korea에서 지원하고 있습니다.
+* 캐글뽀개기 스터디는 KossLab(공개SW 개발자센터)에서 지원하고 있습니다.
 
 
 ## Part1 커리큘럼
