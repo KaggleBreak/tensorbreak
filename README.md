@@ -6,6 +6,7 @@
 * 장소 : 토즈 강남점 
 * 격주 화요일 
 * 캐글뽀개기 스터디는 KossLab(공개SW 개발자센터)에서 지원하고 있습니다.
+* [일정표](https://docs.google.com/spreadsheets/d/1a61w8NwSECxeX1vextoU9-oeTqfdofm63Z0d15JQ7hs/edit#gid=0)
 
 
 ## Part1 커리큘럼
