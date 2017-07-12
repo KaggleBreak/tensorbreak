@@ -14,7 +14,7 @@
 |---|---|---|---|---|
 |2017.06.27(화)|(Tutorial, RStudio) MNIST For ML Beginners |이상열|[발표자료](https://htmlpreview.github.io/?https://github.com/KaggleBreak/tensorbreak/blob/master/part1/Rstudio_Tensorflow/mnist_beginners/tutorial_rstudio_mnist_20170627.html)
 ||(Hands-on, Python) 9. Up and running with TensorFlow |이상열 |[발표자료](https://github.com/KaggleBreak/tensorbreak/blob/master/part1/hands_on_ml/chapter9/Up_and_running_with_TensorFlow_Python.ipynb)
-|2017.07.11(화)|(RStudio) Deep MNIST for Experts |김승욱|
+|2017.07.11(화)|(RStudio) Deep MNIST for Experts |김승욱|[발표자료](https://htmlpreview.github.io/?https://github.com/KaggleBreak/tensorbreak/blob/master/part1/Rstudio_Tensorflow/mnist_Experts/%5BTensorBreak%5D_KimSeungWook_170712.html)
 ||(Hands-on, Python) 9. Up and running with TensorFlow |이상열 |[발표자료](https://github.com/KaggleBreak/tensorbreak/blob/master/part1/hands_on_ml/chapter9/Up_and_running_with_TensorFlow_Python.ipynb)
 ||(Hands-on, R) 9. Up and running with TensorFlow |이상열 |[발표자료](https://github.com/KaggleBreak/tensorbreak/blob/master/part1/hands_on_ml/chapter9/chapter_9_trans_Rcode.R)
 
