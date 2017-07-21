@@ -17,6 +17,9 @@
 |2017.07.11(화)|(RStudio) Deep MNIST for Experts |김승욱|[발표자료](https://htmlpreview.github.io/?https://github.com/KaggleBreak/tensorbreak/blob/master/part1/Rstudio_Tensorflow/mnist_Experts/%5BTensorBreak%5D_KimSeungWook_170712.html)
 ||(Hands-on, Python) 9. Up and running with TensorFlow |이상열 |[발표자료](https://github.com/KaggleBreak/tensorbreak/blob/master/part1/hands_on_ml/chapter9/Up_and_running_with_TensorFlow_Python.ipynb)
 ||(Hands-on, R) 9. Up and running with TensorFlow |이상열 |[발표자료](https://github.com/KaggleBreak/tensorbreak/blob/master/part1/hands_on_ml/chapter9/chapter_9_trans_Rcode.R)
+|2017.07.26(화)|(이론) 신경망 기초 |정용환|
+||(Hands-on, Python) 10. Introduction to Artificial Neural Networks |이상열 |[발표자료](https://github.com/KaggleBreak/tensorbreak/blob/master/part1/hands_on_ml/chapter10/10_Introduction%20to%20Artificial%20Neural%20Networks.ipynb)
+||(Hands-on, R) 10. Introduction to Artificial Neural Networks |이상열 |
 
 
 ## 교재
