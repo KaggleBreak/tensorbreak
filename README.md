@@ -16,10 +16,16 @@
 ||(Hands-on, Python) 9. Up and running with TensorFlow |이상열 |[발표자료](https://github.com/KaggleBreak/tensorbreak/blob/master/part1/hands_on_ml/chapter9/Up_and_running_with_TensorFlow_Python.ipynb)
 |2017.07.11(화)|(RStudio) Deep MNIST for Experts |김승욱|[발표자료](https://htmlpreview.github.io/?https://github.com/KaggleBreak/tensorbreak/blob/master/part1/Rstudio_Tensorflow/mnist_Experts/%5BTensorBreak%5D_KimSeungWook_170712.html)
 ||(Hands-on, Python) 9. Up and running with TensorFlow |이상열 |[발표자료](https://github.com/KaggleBreak/tensorbreak/blob/master/part1/hands_on_ml/chapter9/Up_and_running_with_TensorFlow_Python.ipynb)
-||(Hands-on, R) 9. Up and running with TensorFlow |이상열 |[발표자료](https://github.com/KaggleBreak/tensorbreak/blob/master/part1/hands_on_ml/chapter9/chapter_9_trans_Rcode.R)
+||(Hands-on, R) 9. Up and running with TensorFlow |이상열 |[변경자료](https://github.com/KaggleBreak/tensorbreak/blob/master/part1/hands_on_ml/chapter9/chapter_9_trans_Rcode.R)
 |2017.07.26(화)|(이론) 신경망 기초 |정용환|[발표자료](https://github.com/KaggleBreak/tensorbreak/blob/master/part1/basic_theory/20170725/%ED%85%90%EC%84%9C%EB%BD%80%EA%B0%9C%EA%B8%B0_%EC%8B%A0%EA%B2%BD%EB%A7%9D%EA%B8%B0%EC%B4%88_ver001.pptx)
 ||(Hands-on, Python) 10. Introduction to Artificial Neural Networks |이상열 |[발표자료](https://github.com/KaggleBreak/tensorbreak/blob/master/part1/hands_on_ml/chapter10/10_Introduction%20to%20Artificial%20Neural%20Networks.ipynb)
-||(Hands-on, R) 10. Introduction to Artificial Neural Networks |이상열 |
+||(Hands-on, R) 10. Introduction to Artificial Neural Networks |이상열 |[변경자료](https://github.com/KaggleBreak/tensorbreak/blob/master/part1/hands_on_ml/chapter10/chapter_10_trans_Rcode.R)
+|2017.08.08(화)|(이론) Convolutional Neural Networks|조인제|
+||(Hands-on, Python) 11. Training Deep Neural Nets |오동효 |
+||(Hands-on, R) 11. Training Deep Neural Nets |다같이 |
+|2017.08.22(화)|(이론) 일반화 성능 향상시키는 방법|김효실|
+||(Hands-on, Python) 12. Distributing TensorFlow across devices and servers | |
+||(Hands-on, R) 12. Distributing TensorFlow across devices and servers. |다같이 |
 
 
 ## 교재
