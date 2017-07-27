@@ -4,7 +4,7 @@ library(tensorflow)
 
 setwd('/Users/syleeie/Downloads/tensorbreak/part1/hands_on_ml/chapter10')
 
-#tf$reset_default_graph()
+tf$reset_default_graph()
 
 np <- import("numpy")
 sklearn <- import("sklearn")
@@ -32,14 +32,16 @@ np <- import("numpy", convert = FALSE)
 X_train = mnist$train$images
 X_test = mnist$test$images
 y_train = as.matrix(mnist$train$labels,1)
+dim(y_train)
+head(y_train)
 y_test = as.matrix(mnist$test$labels,1)
 
 config = tf$contrib$learn$RunConfig(tf_random_seed=as.integer(42)) # not shown in the config
 
 feature_cols = tf$contrib$learn$infer_real_valued_columns_from_input(X_train)
 feature_cols
-dnn_clf = tf$contrib$learn$DNNClassifier(hidden_units=c(300,100),
-                                         n_classes=10,
+dnn_clf = tf$contrib$learn$DNNClassifier(hidden_units=c(300L,100L),
+                                         n_classes=10L,
                                          feature_columns=feature_cols, 
                                          config=config)
 
@@ -48,8 +50,16 @@ dnn_clf = tf$contrib$learn$SKCompat(dnn_clf)
 
 dnn_clf
 
-#dnn_clf$fit(X_train, y_train, batch_size=50, steps = 1000) error..TT
+dnn_clf$fit(X_train, y_train, batch_size=50L, steps = 1000L) #error..TT
 
+sklearn <- import("sklearn")
+sklearn
+y_pred = dnn_clf$predict(X_test)
+as.integer(y_test)
+y_pred['classes']
+
+sklearn$metrics$accuracy_score(y_pred = y_pred$classes, y_true  = y_test)
+sklearn$metrics$log_loss(y_pred = y_pred$probabilities, y_true = y_test)
 
 ### Training a DNN using plain TensorFlow¶
 n_inputs = 28*28  # MNIST
