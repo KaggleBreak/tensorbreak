@@ -52,11 +52,7 @@ dnn_clf
 
 dnn_clf$fit(X_train, y_train, batch_size=50L, steps = 1000L) #error..TT
 
-sklearn <- import("sklearn")
-sklearn
 y_pred = dnn_clf$predict(X_test)
-as.integer(y_test)
-y_pred['classes']
 
 sklearn$metrics$accuracy_score(y_pred = y_pred$classes, y_true  = y_test)
 sklearn$metrics$log_loss(y_pred = y_pred$probabilities, y_true = y_test)
