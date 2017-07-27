@@ -50,7 +50,7 @@ dnn_clf = tf$contrib$learn$SKCompat(dnn_clf)
 
 dnn_clf
 
-dnn_clf$fit(X_train, y_train, batch_size=50L, steps = 1000L) #error..TT
+dnn_clf$fit(X_train, y_train, batch_size=50L, steps = 1000L) #warining 무시
 
 y_pred = dnn_clf$predict(X_test)
 
