@@ -22,7 +22,7 @@
 ||(Hands-on, R) 10. Introduction to Artificial Neural Networks |이상열 |[변경자료](https://github.com/KaggleBreak/tensorbreak/blob/master/part1/hands_on_ml/chapter10/chapter_10_trans_Rcode.R)
 |2017.08.08(화)|(이론) Convolutional Neural Networks|조인제|[발표자료](https://github.com/KaggleBreak/tensorbreak/blob/master/part1/basic_theory/20170808/Convolutional-Neural-Network-presentation%EC%A1%B0%EC%9D%B8%EC%A0%9C.pptx)
 ||(Hands-on, Python) 11. Training Deep Neural Nets (1) |오동효 |[발표자료](https://github.com/KaggleBreak/tensorbreak/blob/master/part1/hands_on_ml/chapter11/11_Training%20Deep%20Neural%20Nets.ipynb)
-||(Hands-on, R) 11. Training Deep Neural Nets (1) |다같이 |[발표자료](https://github.com/KaggleBreak/tensorbreak/blob/master/part1/hands_on_ml/chapter11/chapter_11_trans_Rcode.R)
+||(Hands-on, R) 11. Training Deep Neural Nets (1) |이상열 |[발표자료](https://github.com/KaggleBreak/tensorbreak/blob/master/part1/hands_on_ml/chapter11/chapter_11_trans_Rcode.R)
 |2017.08.22(화)|(이론) 일반화 성능 향상시키는 방법|김효실|
 ||(Hands-on, Python) 11. Training Deep Neural Nets (2) | |
 ||(Hands-on, R) 11. Training Deep Neural Nets (2) |다같이 |
