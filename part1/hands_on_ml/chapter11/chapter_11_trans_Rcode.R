@@ -342,7 +342,6 @@ with(tf$Session() %as% sess, {
 #Gradient clipping (기울기 제한)
 tf$reset_default_graph()
 
-  
 n_inputs = 28 * 28  # MNIST
 n_hidden1 = 300
 n_hidden2 = 50
@@ -353,7 +352,6 @@ n_outputs = 10
 
 X = tf$placeholder(tf$float32, shape(NULL, n_inputs), name="X")
 y = tf$placeholder(tf$int64, shape(NULL), name="y")
-
 
 
 with(tf$name_scope('dnn') %as% scope, {
@@ -378,5 +376,15 @@ threshold = 1.0
 
 optimizer = tf$train$GradientDescentOptimizer(learning_rate)
 grads_and_vars = optimizer$compute_gradients(loss)
-grads_and_vars
 
+grads_and_vars[[1]][1]
+grads_and_vars[[2]][2][[1]]
+
+capped_gvs = NULL
+for(i in 1:12){
+  grad = grads_and_vars[[i]][1]
+  var = grads_and_vars[[i]][2][[1]]
+  capped_gvs = c(capped_gvs, tuple(tf$clip_by_value(grad, -1, 1), var))
+}
+
+training_op = optimizer$apply_gradients(capped_gvs)
