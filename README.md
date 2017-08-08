@@ -20,9 +20,9 @@
 |2017.07.26(화)|(이론) 신경망 기초 |정용환|[발표자료](https://github.com/KaggleBreak/tensorbreak/blob/master/part1/basic_theory/20170725/%ED%85%90%EC%84%9C%EB%BD%80%EA%B0%9C%EA%B8%B0_%EC%8B%A0%EA%B2%BD%EB%A7%9D%EA%B8%B0%EC%B4%88_ver001.pptx)
 ||(Hands-on, Python) 10. Introduction to Artificial Neural Networks |이상열 |[발표자료](https://github.com/KaggleBreak/tensorbreak/blob/master/part1/hands_on_ml/chapter10/10_Introduction%20to%20Artificial%20Neural%20Networks.ipynb)
 ||(Hands-on, R) 10. Introduction to Artificial Neural Networks |이상열 |[변경자료](https://github.com/KaggleBreak/tensorbreak/blob/master/part1/hands_on_ml/chapter10/chapter_10_trans_Rcode.R)
-|2017.08.08(화)|(이론) Convolutional Neural Networks|조인제|
+|2017.08.08(화)|(이론) Convolutional Neural Networks|조인제|[발표자료](https://github.com/KaggleBreak/tensorbreak/blob/master/part1/basic_theory/20170808/Convolutional-Neural-Network-presentation%EC%A1%B0%EC%9D%B8%EC%A0%9C.pptx)
 ||(Hands-on, Python) 11. Training Deep Neural Nets (1) |오동효 |[발표자료](https://github.com/KaggleBreak/tensorbreak/blob/master/part1/hands_on_ml/chapter11/11_Training%20Deep%20Neural%20Nets.ipynb)
-||(Hands-on, R) 11. Training Deep Neural Nets (1) |다같이 |
+||(Hands-on, R) 11. Training Deep Neural Nets (1) |다같이 |[발표자료](https://github.com/KaggleBreak/tensorbreak/blob/master/part1/hands_on_ml/chapter11/chapter_11_trans_Rcode.R)
 |2017.08.22(화)|(이론) 일반화 성능 향상시키는 방법|김효실|
 ||(Hands-on, Python) 11. Training Deep Neural Nets (2) | |
 ||(Hands-on, R) 11. Training Deep Neural Nets (2) |다같이 |
