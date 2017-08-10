@@ -1035,13 +1035,12 @@ with(tf$name_scope('eval') %as% scope, {
 threshold = 1.0
 weights = tf$get_default_graph()$get_tensor_by_name("hidden1/kernel:0")
 
-weights
+clipped_weights = tf$clip_by_norm(weights, clip_norm=threshold, axes=1L)
 
-clipped_weights = tf$clip_by_norm(weights, clip_norm=threshold)
 clip_weights = tf$assign(weights, clipped_weights)
 
 weights2 = tf$get_default_graph()$get_tensor_by_name("hidden2/kernel:0")
-clipped_weights2 = tf$clip_by_norm(weights2, clip_norm=threshold)
+clipped_weights2 = tf$clip_by_norm(weights2, clip_norm=threshold, axes=1L)
 clip_weights2 = tf$assign(weights2, clipped_weights2)
   
 init = tf$global_variables_initializer()
@@ -1070,10 +1069,10 @@ with(tf$Session() %as% sess, {
 })
 
 
-max_norm_regularizer <- function(threshold, name="max_norm",
+max_norm_regularizer <- function(threshold, axes=1L, name="max_norm",
                                  collection="max_norm") {
   max_norm <- function(weights) {
-    clipped = tf$clip_by_norm(weights, clip_norm=threshold)
+    clipped = tf$clip_by_norm(weights, clip_norm=threshold, axes=axes)
     clip_weights = tf$assign(weights, clipped, name=name)
     tf$add_to_collection(collection, clip_weights)
   }
@@ -1091,7 +1090,7 @@ learning_rate = 0.01
 momentum = 0.9
 
 X = tf$placeholder(tf$float32, shape(NULL, n_inputs), name="X")
-y = tf$placeholder(tf$int64, shape(NULL), name="y")
+y = tf$placeholder(tf$float32, shape(NULL), name="y")
 
 
 max_norm_reg = max_norm_regularizer(threshold=1.0)
