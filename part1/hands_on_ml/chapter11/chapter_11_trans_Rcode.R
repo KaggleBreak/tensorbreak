@@ -1,5 +1,6 @@
 #Hands on Machine learning scikit_learn_and_Tensorflow
-#Training Deep Neural Nets 책 11장 (약 30% 완료)
+#Training Deep Neural Nets 책 11장 (약 70% 완료)
+#Transfer Learning 부분이랑 일부 에러가 있음
 
 library(devtools)
 library(reticulate)
