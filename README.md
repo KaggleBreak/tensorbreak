@@ -24,8 +24,14 @@
 ||(Hands-on, Python) 11. Training Deep Neural Nets (1) |오동효 |[발표자료](https://github.com/KaggleBreak/tensorbreak/blob/master/part1/hands_on_ml/chapter11/11_Training%20Deep%20Neural%20Nets.ipynb)
 ||(Hands-on, R) 11. Training Deep Neural Nets (1) |이상열 |[발표자료](https://github.com/KaggleBreak/tensorbreak/blob/master/part1/hands_on_ml/chapter11/chapter_11_trans_Rcode.R)
 |2017.08.22(화)|(이론) 일반화 성능 향상시키는 방법|김효실|
-||(Hands-on, Python) 11. Training Deep Neural Nets (2) | |
+||(Hands-on, Python) 11. Training Deep Neural Nets (2) |이상열 |[발표자료](https://github.com/KaggleBreak/tensorbreak/blob/master/part1/hands_on_ml/chapter11/11_Training%20Deep%20Neural%20Nets.ipynb)
 ||(Hands-on, R) 11. Training Deep Neural Nets (2) |다같이 |
+|2017.09.05(화)|(이론) 모두의 딥러닝 강의 - Recurrent Neural Network |이규영|
+||(Hands-on, Python) 12. Distributing TensorFlow across devices and servers| |
+||(Hands-on, R) 12. Distributing TensorFlow across devices and servers |다같이|
+|2017.09.19(화)|(이론) Autoencoder / RBM ||
+||(Hands-on, Python) 13. Convolutional Neural Networks| |
+||(Hands-on, R) 13. Convolutional Neural Networks |다같이|
 
 
 ## 교재
