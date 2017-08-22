@@ -27,7 +27,7 @@
 ||(Hands-on, Python) 11. Training Deep Neural Nets (2) |이상열 |[발표자료](https://github.com/KaggleBreak/tensorbreak/blob/master/part1/hands_on_ml/chapter11/11_Training%20Deep%20Neural%20Nets.ipynb)
 ||(Hands-on, R) 11. Training Deep Neural Nets (2) |다같이 |
 |2017.09.05(화)|(이론) 모두의 딥러닝 강의 - Recurrent Neural Network |이규영|
-||(Hands-on, Python) 12. Distributing TensorFlow across devices and servers| |
+||(Hands-on, Python) 12. Distributing TensorFlow across devices and servers|권오성|
 ||(Hands-on, R) 12. Distributing TensorFlow across devices and servers |다같이|
 |2017.09.19(화)|(이론) Autoencoder / RBM ||
 ||(Hands-on, Python) 13. Convolutional Neural Networks| |
