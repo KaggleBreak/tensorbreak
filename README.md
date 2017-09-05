@@ -33,6 +33,7 @@
 
 ## 교재
 * hands on machine learning with scikit-learn and tensorflow
+* 모두를 위한 머신러닝과 딥러닝의 강의 (https://hunkim.github.io/ml/)
 * 교재 Github 주소 : https://github.com/ageron/handson-ml
 * 참고자료 : https://tensorflow.rstudio.com/
 
