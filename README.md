@@ -26,9 +26,9 @@
 |2017.08.22(화)|(이론) 일반화 성능 향상시키는 방법|김효실|[발표자료](https://github.com/KaggleBreak/tensorbreak/blob/master/part1/basic_theory/20170822/Relu-and-%EC%B4%88%EA%B8%B0%EA%B0%92%EC%A0%95%ED%95%98%EA%B8%B0_v1.0.docx)
 ||(Hands-on, Python) 11. Training Deep Neural Nets (2) |이상열 |[발표자료](https://github.com/KaggleBreak/tensorbreak/blob/master/part1/hands_on_ml/chapter11/11_Training%20Deep%20Neural%20Nets.ipynb)
 ||(Hands-on, R) 11. Training Deep Neural Nets (2) |다같이 |[발표자료](https://github.com/KaggleBreak/tensorbreak/blob/master/part1/hands_on_ml/chapter11/chapter_11_trans_Rcode.R)
-|2017.09.05(화)|(이론) 모두의 딥러닝 강의 - Recurrent Neural Network |이규영|
+|2017.09.05(화)|(이론) 모두의 딥러닝 강의 - Recurrent Neural Network |이규영|[발표자료](https://github.com/KaggleBreak/tensorbreak/blob/master/part1/basic_theory/20170905/RNN%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pptx)
 ||(Hands-on, Python) 12. Distributing TensorFlow across devices and servers|권오성|
-||(Hands-on, R) 12. Distributing TensorFlow across devices and servers |다같이|
+||(특강) EC2 Tutorial |이상열|[발표자료](https://github.com/KaggleBreak/walkingkaggle/blob/master/pycon2017_kr/pycon_korea_2017_aws_tutorial.ipynb)
 
 
 ## 교재
